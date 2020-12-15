@@ -1,7 +1,7 @@
 # 日志系统使用方法
 地址：
 -------------
-`go get github.com/AgeOfLegends/logs`
+`go get github.com/KArtorias/logs`
 
 功能
 ----
