@@ -1,3 +1,3 @@
-module github.com/AgeOfLegends/logs
+module github.com/KArtorias/logs
 
 go 1.15
